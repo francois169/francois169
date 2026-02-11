@@ -87,7 +87,7 @@ https://github.com/francois169/Impact-du-dipl-me-sur-le-revenu-par-sexe-et-provi
 
 ## 📫 Contact
 
-📧 2743906@collegelacite.ca  
+📧 xfrancois194@gmail.com  
 💼 LinkedIn: https://www.linkedin.com/in/tessa-xavier-francois  
 💻 GitHub: https://github.com/francois169  
 
