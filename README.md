@@ -1,53 +1,96 @@
-## Hi there 👋 I'm François Xavier (Tessa)
+# 👋 Hi, I'm François Xavier (Tessa)
 
-🎓 Étudiant en **Sciences des données appliquées** à *La Cité collégiale* (Ottawa)  
-📊 Passionné par l’analyse de données, la visualisation et la prise de décision basée sur les données  
-🔍 Actuellement à la recherche d’un **stage en data science / data analysis**
-
----
-
-### 🚀 À propos de moi
-Je possède une solide formation en **mathématiques appliquées, actuariat et analyse économique**, combinée à des compétences pratiques en **programmation, bases de données et modélisation statistique**.  
-J’aime transformer des ensembles de données complexes en **informations claires et exploitables** pour soutenir la prise de décision.
+🎓 Applied Data Science Student at La Cité Collégiale (Ottawa, Canada)  
+📊 Data Analysis | Machine Learning | Business Intelligence  
+🔍 Actively seeking a Data Science / Data Analyst Internship  
 
 ---
 
-### 🛠️ Compétences techniques
-- **Langages & outils** : Python, R, SQL, Excel, Tableau  
-- **Data Science** : nettoyage des données, analyse exploratoire, visualisation, reporting  
-- **Machine Learning** : classification, clustering, évaluation des modèles (ROC, F1, matrice de confusion)  
-- **Bases de données** : MySQL, SQL Server, pipelines ETL  
-- **Outils** : Power BI, Git, GitHub
+## 🚀 Professional Profile
+
+Detail-oriented and analytically driven data science student with a strong background in applied mathematics, actuarial science, and economic analysis.  
+
+Experienced in transforming raw data into actionable insights through statistical modeling, machine learning, and data visualization.  
+
+I am passionate about solving real-world problems using data and building models that support strategic decision-making.
 
 ---
 
-### 📌 Projet mis en avant
-🔹 **Impact du diplôme sur le revenu par sexe et province (Canada)**  
-👉 Analyse statistique et exploratoire des revenus selon le niveau d’études, le sexe et la province, avec visualisations et interprétations socio-économiques.
+## 🛠️ Technical Skills
 
-🔗 **Lien du projet GitHub** :  
-👉 https://github.com/francois169/Impact-du-dipl-me-sur-le-revenu-par-sexe-et-province
+### Programming & Query Languages
+- Python (Pandas, NumPy, Matplotlib, scikit-learn)
+- R
+- SQL
+
+### Data Analysis & Visualization
+- Exploratory Data Analysis (EDA)
+- Statistical Modeling
+- Dashboard Development (Power BI, Tableau)
+- Reporting & Data Storytelling
+
+### Machine Learning
+- Supervised Learning (Classification)
+- Clustering
+- Model Evaluation (ROC Curve, F1-score, Confusion Matrix)
+- Neural Networks (TensorFlow)
+
+### Databases & Data Engineering
+- MySQL
+- SQL Server
+- ETL Processes
+- Data Warehousing
+
+### Tools
+- Git
+- GitHub
+- Excel (Advanced)
 
 ---
 
-### 📚 Autres projets académiques
-- 🗄️ **Data Warehouse – Ontario 511 Road Events** (SQL Server, ETL, reporting)
-- 🧠 **Analyse de données de santé** (Python, scikit-learn, TensorFlow)
-- ☕ **Data Cleaning Toolkit** (Java, automatisation du traitement CSV)
+## 📌 Featured Project
+
+### 📊 Impact of Education Level on Income by Gender and Province (Canada)
+
+Conducted a statistical and exploratory analysis to examine income disparities based on education level, gender, and province.
+
+**Key Contributions:**
+- Data cleaning and preprocessing
+- Exploratory Data Analysis (EDA)
+- Statistical comparisons across demographic groups
+- Data visualization and socio-economic interpretation
+
+🔗 GitHub Repository:  
+https://github.com/francois169/Impact-du-dipl-me-sur-le-revenu-par-sexe-et-province
 
 ---
 
-### 🌍 Langues
-- 🇫🇷 Français : avancé  
-- 🇬🇧 Anglais : intermédiaire  
+## 📚 Additional Projects
+
+- 🗄️ Data Warehouse – Ontario 511 Road Events  
+  *Designed ETL workflows and reporting dashboards using SQL Server.*
+
+- 🧠 Healthcare Data Analysis  
+  *Built and evaluated machine learning models using Python and TensorFlow.*
+
+- ☕ Data Cleaning Toolkit  
+  *Developed a Java-based automation tool for CSV data preprocessing.*
 
 ---
 
-### 📫 Me contacter
-- 📧 Email : 2743906@collegelacite.ca  
-- 💼 LinkedIn : https://www.linkedin.com/in/tessa-xavier-francois  
-- 💻 GitHub : https://github.com/francois169
+## 🌍 Languages
+
+- French: Fluent / Native  
+- English: Professional Working Proficiency  
 
 ---
 
-✨ *Toujours motivé à apprendre, collaborer et relever de nouveaux défis en science des données.*
+## 📫 Contact
+
+📧 2743906@collegelacite.ca  
+💼 LinkedIn: https://www.linkedin.com/in/tessa-xavier-francois  
+💻 GitHub: https://github.com/francois169  
+
+---
+
+⭐ Open to internship opportunities in Data Science, Data Analysis, and Business Intelligence.
